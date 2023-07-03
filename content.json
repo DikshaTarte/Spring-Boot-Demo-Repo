@@ -1,0 +1,30 @@
+"id": 2,						==>int
+            "player_name": "Jabari Smith Jr.",		==>varchar(50)
+            "age": 19,					==>int 
+            "games": 79,				==>int
+            "games_started": 79,			==>int
+            "minutes_played": 2451,			==>int
+            "field_goals": 364,				==>int
+            "field_attempts": 892,			==>int
+            "field_percent": "0.408",			==>decimal
+            "three_fg": 120,
+            "three_attempts": 391,
+            "three_percent": "0.307",
+            "two_fg": 244,
+            "two_attempts": 501,
+            "two_percent": "0.487",
+            "effect_fg_percent": "0.475",
+            "ft": 162,
+            "fta": 206,
+            "ft_percent": "0.786",
+            "ORB": 122,
+            "DRB": 447,
+            "TRB": 569,
+            "AST": 101,
+            "STL": 43,
+            "BLK": 74,
+            "TOV": 104,
+            "PF": 227,
+            "PTS": 1010,
+            "team": "HOU",
+            "season": 2023
